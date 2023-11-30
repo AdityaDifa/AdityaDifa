@@ -1,6 +1,6 @@
 Perkenalkan nama saya **Aditya Difa**.\
 Saya seorang **Cohort** di [Dicoding](https://www.dicoding.com/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aditya-difa-59901b193/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aditya-difa-59901b193/)saya.
 
 <p align="left">
 <a href="https://github.com/AdityaDifa">
